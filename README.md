@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 🎬 HERO — video intro + name -->
-<img src="./hero.svg?v=2" alt="Hi, I'm U.Uttam — Software Engineer" width="100%"/>
+<img src="./hero.svg?v=3" alt="Hi, I'm U.Uttam — Software Engineer" width="100%"/>
 
 <br/><br/>
 
-<!-- 👩‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
-<img src="./about-life.svg?v=2" alt="What I build, and life beyond the code" width="100%"/>
+<!-- 👨‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
+<img src="./about-life.svg?v=3" alt="What I build, and life beyond the code" width="100%"/>
 
 <br/><br/>
 
@@ -57,10 +57,11 @@
 <br/><br/>
 
 <!-- 💌 LET'S CONNECT -->
-<img src="./connect.svg?v=2" alt="Let's connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/U-Uttam"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
 <a href="mailto:uttampradeep02@gmail.com"><img src="https://img.shields.io/badge/Email-0284c7?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+<a href="https://www.instagram.com/uttam_pradeep?stkn=cm53eGJteGd1OXR0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/uttam-u"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
 <a href="https://uttam-u-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge&logo=googlechrome&logoColor=0d0e16" alt="Portfolio"/></a>
 
